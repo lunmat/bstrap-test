@@ -1,1 +1,5 @@
-.idea
+# Bower
+bower_components/
+
+# WebStorm
+.idea/
